@@ -60,4 +60,5 @@ console.log(padded);
 
 // replace
 let result4=text.replace("Nancy",)
+let result5=text.replace("Nancy",)
 
