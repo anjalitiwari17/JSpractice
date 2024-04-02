@@ -1,0 +1,1 @@
+In this work I am practising JS problems and methods to solve it easily.
