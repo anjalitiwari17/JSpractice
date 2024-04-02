@@ -38,3 +38,4 @@ console.log(`Hello friends`)
 // length
 let str="Hello world!";
 console.log(str.length);
+console.log(str.length);
